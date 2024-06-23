@@ -1,0 +1,8 @@
+{
+  "name": "mnemosyne",
+  "description": "Custom extension for CloudStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/techanvconsulting/TestPlugins/builds/plugins.json"
+  ]
+}
